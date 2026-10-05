@@ -1,0 +1,6 @@
+{
+  "name": "SOLTERRA Cold-Pressed Juices",
+  "description": "Artisanal 100% organic, raw cold-pressed juices, functional wellness tonics, and revitalizing cleanse programs crafted fresh daily with regenerative farm produce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
